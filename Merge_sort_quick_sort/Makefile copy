@@ -1,0 +1,17 @@
+CC=g++
+#CFLAGS=-I 
+DEPS = sort.h List_merge.h List_quick.h
+OBJ = main.o sort.o List_merge.o List_quick.o 
+
+#qu: $(OBJ)
+#	$(CC) $(DEPS) main.cpp	
+
+%.o: %.c $(DEPS)
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+all: $(OBJ)
+	$(CC) -o $@ $^ $(CFLAGS)
+quick: $(OBJ)
+	$(CC) -o $@ $^ $(CFLAGS) 
+merge: $(OBJ)
+	$(CC) -o $@ $^ $(CFLAGS)

@@ -1,0 +1,44 @@
+//============================================================================
+// Name        : hw03.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+//
+//  main.cpp
+//  HW8_1
+//
+//  Created by Li M on 15/10/31.
+//  Copyright (c) 2015年 Li M. All rights reserved.
+//
+
+#include "matrix.h"
+
+int main() {
+
+        Matrix m1(4,5);
+    cout<<"haha";
+    cout<<"m1 is:"<<endl<<m1;;
+    cout<<"please input m1";
+//    cin>> m1;
+//    cout<< m1;
+        Matrix m2=m1;
+        cout<<"m2 is:"<<m2;
+
+
+
+        Matrix m3(5,4);
+    cin>>m3;
+        cout<<"m3 is:"<<m3;
+
+
+        cout<<"m2*m3 is::"<<m2*m3;
+
+    cout <<"m1+m2 is::"<<m1+m2;
+
+
+
+
+}

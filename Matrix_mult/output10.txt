@@ -1,0 +1,108 @@
+60 0 0.1
+Time used with dimension 60 on version 0 and density 0.1 is 0.001226
+60 0 0.2
+Time used with dimension 60 on version 0 and density 0.2 is 0.001157
+60 0 0.3
+Time used with dimension 60 on version 0 and density 0.3 is 0.001107
+60 1 0.1
+Time used with dimension 60 on version 1 and density 0.1 is 0.000981
+60 1 0.2
+Time used with dimension 60 on version 1 and density 0.2 is 0.000921
+60 1 0.3
+Time used with dimension 60 on version 1 and density 0.3 is 0.001008
+60 2 0.1
+Time used with dimension 60 on version 2 and density 0.1 is 0.059811
+60 2 0.2
+Time used with dimension 60 on version 2 and density 0.2 is 0.238106
+60 2 0.3
+Time used with dimension 60 on version 2 and density 0.3 is 0.536044
+60 3 0.1
+Time used with dimension 60 on version 3 and density 0.1 is 0.001289
+60 3 0.2
+Time used with dimension 60 on version 3 and density 0.2 is 0.002752
+60 3 0.3
+Time used with dimension 60 on version 3 and density 0.3 is 0.00489
+60 4 0.1
+Time used with dimension 60 on version 4 and density 0.1 is 0.001343
+60 4 0.2
+Time used with dimension 60 on version 4 and density 0.2 is 0.002714
+60 4 0.3
+Time used with dimension 60 on version 4 and density 0.3 is 0.004826
+60 5 0.1
+Time used with dimension 60 on version 5 and density 0.1 is 0.001579
+60 5 0.2
+Time used with dimension 60 on version 5 and density 0.2 is 0.002817
+60 5 0.3
+Time used with dimension 60 on version 5 and density 0.3 is 0.004833
+90 0 0.1
+Time used with dimension 90 on version 0 and density 0.1 is 0.003383
+90 0 0.2
+Time used with dimension 90 on version 0 and density 0.2 is 0.00337
+90 0 0.3
+Time used with dimension 90 on version 0 and density 0.3 is 0.003601
+90 1 0.1
+Time used with dimension 90 on version 1 and density 0.1 is 0.00183
+90 1 0.2
+Time used with dimension 90 on version 1 and density 0.2 is 0.002036
+90 1 0.3
+Time used with dimension 90 on version 1 and density 0.3 is 0.002572
+90 2 0.1
+Time used with dimension 90 on version 2 and density 0.1 is 0.462846
+90 2 0.2
+Time used with dimension 90 on version 2 and density 0.2 is 1.60958
+90 2 0.3
+Time used with dimension 90 on version 2 and density 0.3 is 3.37843
+90 3 0.1
+Time used with dimension 90 on version 3 and density 0.1 is 0.004327
+90 3 0.2
+Time used with dimension 90 on version 3 and density 0.2 is 0.011602
+90 3 0.3
+Time used with dimension 90 on version 3 and density 0.3 is 0.022796
+90 4 0.1
+Time used with dimension 90 on version 4 and density 0.1 is 0.004809
+90 4 0.2
+Time used with dimension 90 on version 4 and density 0.2 is 0.011794
+90 4 0.3
+Time used with dimension 90 on version 4 and density 0.3 is 0.022003
+90 5 0.1
+Time used with dimension 90 on version 5 and density 0.1 is 0.004886
+90 5 0.2
+Time used with dimension 90 on version 5 and density 0.2 is 0.011783
+90 5 0.3
+Time used with dimension 90 on version 5 and density 0.3 is 0.02058
+200 0 0.1
+Time used with dimension 200 on version 0 and density 0.1 is 0.037791
+200 0 0.2
+Time used with dimension 200 on version 0 and density 0.2 is 0.040944
+200 0 0.3
+Time used with dimension 200 on version 0 and density 0.3 is 0.039843
+200 1 0.1
+Time used with dimension 200 on version 1 and density 0.1 is 0.010362
+200 1 0.2
+Time used with dimension 200 on version 1 and density 0.2 is 0.013887
+200 1 0.3
+Time used with dimension 200 on version 1 and density 0.3 is 0.016185
+200 2 0.1
+Time used with dimension 200 on version 2 and density 0.1 is 18.8976
+200 2 0.2
+Time used with dimension 200 on version 2 and density 0.2 is 71.8693
+200 2 0.3
+Time used with dimension 200 on version 2 and density 0.3 is 158.835
+200 3 0.1
+Time used with dimension 200 on version 3 and density 0.1 is 0.063013
+200 3 0.2
+Time used with dimension 200 on version 3 and density 0.2 is 0.189373
+200 3 0.3
+Time used with dimension 200 on version 3 and density 0.3 is 0.418948
+200 4 0.1
+Time used with dimension 200 on version 4 and density 0.1 is 0.061574
+200 4 0.2
+Time used with dimension 200 on version 4 and density 0.2 is 0.199375
+200 4 0.3
+Time used with dimension 200 on version 4 and density 0.3 is 0.404643
+200 5 0.1
+Time used with dimension 200 on version 5 and density 0.1 is 0.060926
+200 5 0.2
+Time used with dimension 200 on version 5 and density 0.2 is 0.191385
+200 5 0.3
+Time used with dimension 200 on version 5 and density 0.3 is 0.417234
